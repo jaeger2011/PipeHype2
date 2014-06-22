@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PipeHype</string>
+    <string name="hello_world">PipeHype</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selection">Selection</string>
+    <string name="title_activity_record">Record</string>
+    <string name="title_activity_fft">FFT</string>
+    <string name="button1_name">ton_abspielen</string>
+    <string name="AufnahmeButton">Aufnahme</string>
+    <string name="Aufnahme_Button">Record</string>
+    <string name="Start">Start</string>
+    <string name="header">PipeHype</string>
+    <string name="ton_ueben">Pfeifen!</string>
+    <string name="tonauswahl">Schwierigkeit</string>
+    <string name="ton_auswaehlen">Kolibri (1)</string>
+    <string name="back_to_menu">zurück zum Hauptmenü</string>
+    <string name="to_anleitung">Anleitung</string>
+    <string name="to_level_3">Schwalbe (3)</string>
+    <string name="to_level_2">Fink (2)</string>
+    <string name="Aufnahme_starten">Start!</string>
+    <string name="Aufnahme_stoppen">Abbruch!!!</string>
+    <string name="Zurueck">Zurück</string>
+    <string name="beenden">Beenden</string>
+    <string name="title_activity_anleitung">Anleitung</string>
+    <string name="erklaerung">Um bei PipeHype möglichst erfolgreich zu sein, muss man versuchen einen Pfeifton in einem bestimmten Lautstärkebereich lang genug zu halten. Wenn die Lautstärke über eine gewisse Zeit in dem Bereich gehalten wurde, ertönt das Zwitschern der eroberten Vogeldame. Am Ende einer Runde, wird angezeigt wieviele Vogeldamen man erobert hat.</string>
+	<string name="from_anleitung_to_menu">zurück</string>
+	<string name="neustarten">Neustart</string>
+	<string name="tonAus">Ton</string>
+	<string name="tonAn">Ton</string>
+	<string name="logo">Logo</string>
+</resources>
